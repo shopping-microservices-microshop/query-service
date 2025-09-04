@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: query-service
-          image: willchrist/query-service:d9b3c6f
+          image: willchrist/query-service:d8e58c8
           ports:
             - containerPort: 8002
           env:
