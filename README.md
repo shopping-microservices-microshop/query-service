@@ -279,9 +279,6 @@ kubectl logs -f deployment/query-service-deployment --previous
 6. Push to the branch (`git push origin feature/amazing-feature`)
 7. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
 
 ## 🆘 Troubleshooting
 
